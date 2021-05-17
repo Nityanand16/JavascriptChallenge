@@ -33,4 +33,6 @@ console.log(person("Nityanand"));   //9
 console.log("********************************")
 
 //program to capitalize the first character of a string
-
+function capital(str) {
+    
+}
